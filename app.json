@@ -24,7 +24,8 @@
     "pages/shop/order/order",
     "pages/shop/list/list",
     "pages/shop/cooperation/shop/list",
-    "pages/shop/cooperation/shop/home"
+    "pages/shop/cooperation/shop/home",
+    "pages/official-account-publish/official-account-publish"
   ],
   "window": {
     "backgroundTextStyle": "light",

@@ -1,0 +1,10 @@
+<ui-sys title="公众号图文">
+      <view class="container">
+      <view class="content-article ">
+            <view class="official-account">
+                  <official-account-publish topic="{{topic}}" limit="10" path="'/pages/official-account-publish/official-account-publish" background-color="#ffffff" placeholder="来写下第一条吧"></official-account-publish>
+            </view>
+            
+      </view>
+</view>
+</ui-sys>

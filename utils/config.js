@@ -62,6 +62,7 @@ const appghId ='gh_e49213784fae'
 //微慕小程序端版本,请勿修改
 const minapperVersion=5.12
 const minapperSource="free"
+const officialAccountPublishTopic='微慕小程序'
 //////////////////////////////////////////////////////
 
 export default {
@@ -79,5 +80,6 @@ export default {
   enablePageviewsCount,
   enableLikeCount,
   enableWeixinOpen,
-  enableWechatshop
+  enableWechatshop,
+  officialAccountPublishTopic
 }

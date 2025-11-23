@@ -1,0 +1,7 @@
+page{
+  background-color: #f5f7f7;
+}
+
+.official-account{
+  margin: 24rpx;
+}
